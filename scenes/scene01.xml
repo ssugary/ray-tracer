@@ -1,0 +1,7 @@
+<TLSM>
+    <camera type="orthographic" />
+    <film type="image" x_res="200" y_res="100" filename="simple_bkg.ppm" img_type="ppm" />
+    <world_begin/>
+        <background type="colors" color="255 197 211"/>
+    <world_end/>
+</TLSM>

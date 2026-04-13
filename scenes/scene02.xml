@@ -1,0 +1,8 @@
+<TLSM>
+    <camera type="orthographic" />
+    <film type="image" x_res="800" y_res="600" filename="interpolated_bkg.png" img_type="png" />
+    <world_begin/>
+        <!-- This defines an interpolated background -->
+        <background type="colors" mapping="screen" bl="0 0 0" tl="0 255 0" tr="255 0 0" br="255 0 0" />
+    <world_end/>
+</TLSM>

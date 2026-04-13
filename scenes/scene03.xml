@@ -1,0 +1,9 @@
+<TLSM>
+    <camera type="orthographic" fovy="30"/>
+    <film type="image" x_res="800" y_res="600" filename="interpolated_bkg.png" img_type="png" />
+    <world_begin/>
+        <background type="colors" mapping="screen" bl="102 0 204" tl="255 255 0" tr="255 0 0" br="153 76 0" />
+    <world_end/>
+</TLSM>
+
+
